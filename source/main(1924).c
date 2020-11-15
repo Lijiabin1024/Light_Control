@@ -6,8 +6,6 @@ int main(void)
 	Driver_Init();
 	enableInterrupts();
 
-	Light_Status(sLightStatus[2]);
-
     while(1)
     {
         ;

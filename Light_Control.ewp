@@ -1601,7 +1601,19 @@
   <group>
     <name>Driver</name>
     <file>
+      <name>$PROJ_DIR$\source\Driver\Adc\Adc.c</name>
+    </file>
+    <file>
       <name>$PROJ_DIR$\source\Driver\Driver.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\Driver\Gpio\Gpio.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\Driver\Tim\Tim.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\source\Driver\Uart\Uart.c</name>
     </file>
   </group>
   <group>
